@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Richa Jha 👋
 
-<!--
-**richa-jhaqa/richa-jhaqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring QA Engineer
 
-Here are some ideas to get you started:
+B.Tech Computer Science Graduate passionate about Software Testing and Quality Assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Manual Testing
+- Core Java
+- Selenium WebDriver
+- TestNG
+- SQL (MySQL)
+- API Testing (Postman)
+- Git & GitHub
+
+### Currently Learning
+- Selenium Automation Testing
+- API Testing
+- TestNG Framework
+
+### Career Goal
+To start my career as a QA Engineer and contribute to delivering high-quality software.
+
+### My QA Projects
+- Manual Testing
+- Selenium Java Automation
+- API Testing with Postman
